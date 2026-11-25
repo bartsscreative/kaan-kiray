@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e6e6e0"/><stop offset="1" stop-color="#c9d4d9"/></linearGradient>
+    <linearGradient id="pin" x1="0" y1="0" x2="1" y2=".7"><stop stop-color="#e5d5c0"/><stop offset="1" stop-color="#906c45"/></linearGradient>
+  </defs>
+  <path d="M0 0h460v300H0z" fill="url(#paper)"/>
+  <path d="M-18 124 202 170 243 303H-18zM303 0h157v108l-80 21z" fill="#d9d7d0"/>
+  <path d="M444 184c-91-5-78 45-141 74-42 20-94 13-119 49h276z" fill="#a9bfc9"/>
+  <g fill="none" stroke="#f8f8f6" stroke-linecap="round">
+    <path d="m-10 68 117 27 107 21 157 24 114 18M-20 200l99-16 118 27 98 45 115 54M47-12l83 139 72 176M193-20l50 94 88 99 88 144" stroke-width="9"/>
+    <path d="m-10 136 94-5 100 30 106 19 182-3M-5 251l106-26 106-12 124-40 110-57M109-8l62 119 28 99 55 100M295-8l77 148 88 99" stroke-width="4"/>
+  </g>
+  <ellipse cx="222" cy="216" rx="33" ry="10" fill="#263d4c" opacity=".13"/>
+  <path d="M222 216c0 0-32-47-32-71a32 32 0 0 1 64 0c0 24-32 71-32 71Z" fill="url(#pin)" stroke="#8e7151" stroke-width="1.5"/>
+  <circle cx="222" cy="145" r="13" fill="#f7f4ef"/>
+</svg>
